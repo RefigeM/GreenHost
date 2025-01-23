@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca r221.14\\Desktop\\GreenHost\\GreenHost\\GreenHost.csproj": {}
+    "C:\\Users\\ca r221.14\\Desktop\\assets\\GreenHost\\GreenHost\\GreenHost\\GreenHost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca r221.14\\Desktop\\GreenHost\\GreenHost\\GreenHost.csproj": {
+    "C:\\Users\\ca r221.14\\Desktop\\assets\\GreenHost\\GreenHost\\GreenHost\\GreenHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\GreenHost\\GreenHost\\GreenHost.csproj",
+        "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\assets\\GreenHost\\GreenHost\\GreenHost\\GreenHost.csproj",
         "projectName": "GreenHost",
-        "projectPath": "C:\\Users\\ca r221.14\\Desktop\\GreenHost\\GreenHost\\GreenHost.csproj",
+        "projectPath": "C:\\Users\\ca r221.14\\Desktop\\assets\\GreenHost\\GreenHost\\GreenHost\\GreenHost.csproj",
         "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca r221.14\\Desktop\\GreenHost\\GreenHost\\obj\\",
+        "outputPath": "C:\\Users\\ca r221.14\\Desktop\\assets\\GreenHost\\GreenHost\\GreenHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

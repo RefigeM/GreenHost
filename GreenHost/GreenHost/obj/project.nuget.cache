@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fagOugYn5C0=",
+  "dgSpecHash": "YduZxAQ5FaY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca r221.14\\Desktop\\GreenHost\\GreenHost\\GreenHost.csproj",
+  "projectFilePath": "C:\\Users\\ca r221.14\\Desktop\\assets\\GreenHost\\GreenHost\\GreenHost\\GreenHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca r221.14\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ca r221.14\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
