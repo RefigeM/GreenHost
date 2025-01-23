@@ -1,0 +1,34 @@
+﻿@model Member
+
+<td><a asp-action="Index" asp-controller="Department" class="btn btn-primary">Back</a></td>
+
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Fullname</th>
+                    <th>Image</th>
+                    <th>IsDeleted</th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+                    <td>@Model.Id </td>
+                    <td>@Model.Fullname </td>
+                    <td>@Model.Image </td>
+                    <td>@Model.IsDeleted </td>
+               
+
+                </tr>
+
+
+            </tbody>
+        </table>
+    </div>
+</div>
+

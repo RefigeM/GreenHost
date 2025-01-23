@@ -1,0 +1,16 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name">
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
